@@ -1,3 +1,6 @@
 [submodule "option-challenge-back"]
 	path = option-challenge-back
 	url = git@github.com:nicolasmontenegro/option-challenge-back.git
+[submodule "option-challenge-front"]
+	path = option-challenge-front
+	url = git@github.com:nicolasmontenegro/option-challenge-front.git
